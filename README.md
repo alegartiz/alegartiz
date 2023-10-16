@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">"Hey there! Alejandro García here! 👋 </h1>
+<h3 align="center">🚀 Fullstack developer  🚀</h3>
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
-<!--
-**alegartiz/alegartiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🤔 &nbsp; Exploring new technologies and developing software & web
+  - 🎓 &nbsp; Studied on Coderhouse and Coursera (IBM Program).
+  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 🌱 &nbsp; Constantly learning about Backend and Frontend Developement.
+  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+</div> 
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+    <strongA><b>Frontend:</b></strongA> CSS | HTML5 | JavaScript | Angular | React | TypeScript
+  <p>
+  <p>
+    <strongA><b>Backend:</b></strongA> Python | NodeJS | ExpressJS
+  <p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <strongA><b>Database:</b></strongA> MySQL | MongoDB 
+  <p>
+
+    
+</div> 
